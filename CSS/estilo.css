@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p { 
+    margin-top: 70px;
+    margin-left: 50px;
+}
+#imagem{
+    position: absolute;
+    left: 30px;
+    top: 60px;
+    width:200px;
+    height: 300px;
+
+}
+p {color: brown;
+    font-size: 100px;
+
+}
+
+#paragrafo{
+    color: blue;
+    font-size: 90px;
+}

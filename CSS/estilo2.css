@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+#container{
+    width: 1050px;
+    height: 616px;
+    margin: 0 auto;
+}
+
+#banner{
+    width: 1050px;
+    height: 187px;
+    background-color: black;
+    color: aliceblue;
+ 
+}
+
+#link{
+    width: 150px;
+    height: 800px;
+    background-color: brown;
+    margin-left: 0px;
+}
+#texto{
+    width: 900px;
+    height: 800px;
+    margin-top: -800px;
+    margin-left: 150px;
+
+    background-color: cadetblue;
+}
+#footer{
+    width: 79,5%;
+    height: 50px;
+    margin: 0 auto 200;
+    text-align: center;
+    border: solid;
+    color:darkslategrey;
+}
+
+#doação{
+    width: 100%;
+    height: 187px;
+
+}
+#vídeo{
+    width: 80%;
+    height: 50%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 20%;
+}
+
